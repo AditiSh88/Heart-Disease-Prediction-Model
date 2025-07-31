@@ -1,6 +1,6 @@
 # Heart Disease Prediction Model
 
-This project implements a **Heart Disease Prediction Model** using **Logistic Regression** to classify the presence of heart disease based on a set of health-related features. The model was trained and evaluated using the **Heart Disease Dataset** from the UCI Machine Learning Repository.
+This project implements a **Heart Disease Prediction Model** using **Logistic Regression** to classify the presence of heart disease based on a set of health-related features.
 
 ## Libraries Used
 
